@@ -1,0 +1,6 @@
+{
+  "name": "OmniChannel E-Commerce Analytics",
+  "description": "Upload and analyze sales reports from Amazon, Flipkart, Meesho, and Brand Website with net margin, profit & loss, fee breakdowns, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
